@@ -1,7 +1,7 @@
 ## Interface: 90200
 ## Title: DarkModeUI
 ## Notes: Dark Mode for Default Blizzard UI
-## Version: v1.0
+## Version: v1.0.1
 ## Author: NYKO7_
 
 core\DarkModeUI.lua
