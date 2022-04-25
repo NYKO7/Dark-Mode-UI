@@ -1,4 +1,4 @@
-# DarkModeUI
+# Dark Mode UI
 World of Warcraft AddOn
 Dark Mode for Default Blizzard UI
 
