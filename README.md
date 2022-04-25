@@ -1,4 +1,5 @@
 # DarkModeUI
+World of Warcraft AddOn
 Dark Mode for Default Blizzard UI
 
 Every frame border and background was changed to dark version.
@@ -6,7 +7,7 @@ Every frame border and background was changed to dark version.
 ### Important
 If you want complete dark version you need to download DarkModeUI Texture Pack and place it into "World Of Warcraft\_retail_\Interface\". Not into AddOns folder, its not an addon. After that you need to restart your game, /reload is not enough.
 
-Texture Pack: https://github.com/NykoPowered/Dark-Mode-UI-Texture-Pack
+Texture Pack: https://github.com/NykoPowered/Dark-Mode-UI-Texture-Pack or https://www.wowinterface.com/downloads/info26280-DarkModeUITexturePack.html#info
 
 
 ## Action bars
