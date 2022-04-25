@@ -15,10 +15,14 @@ Texture Pack: https://github.com/NykoPowered/Dark-Mode-UI-Texture-Pack or https:
 ## Action bars
 - Dark version of default blizzard action bars
 
+![](https://media.forgecdn.net/attachments/456/616/darkmodeui5.png)
+
 ## Unit frames
 - Dark version of default Blizzard Unitframes
 - Names background are class colored.
 - removed rest glow and icons
+
+![](https://media.forgecdn.net/attachments/456/617/darkmodeui6.png)
 
 ## Arena frames
 - Dark version of default Blizzard Arena frames
@@ -29,6 +33,8 @@ Texture Pack: https://github.com/NykoPowered/Dark-Mode-UI-Texture-Pack or https:
 
 ## Minimap
 - Dark version of default Blizzard minimap
+
+![](https://media.forgecdn.net/attachments/456/618/darkmodeui7.png)
 
 ## Configuration
 There is no in-game configuration available, but changing the settings isn’t hard! Configurations can be found in the .lua file inside the DarkModeUI folder.
