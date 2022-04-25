@@ -9,6 +9,8 @@ If you want complete dark version you need to download DarkModeUI Texture Pack a
 
 Texture Pack: https://github.com/NykoPowered/Dark-Mode-UI-Texture-Pack or https://www.wowinterface.com/downloads/info26280-DarkModeUITexturePack.html#info
 
+![](https://cdn-wow.mmoui.com/preview/pvw74896.png)
+
 
 ## Action bars
 - Dark version of default blizzard action bars
